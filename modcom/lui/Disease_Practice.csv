@@ -1,0 +1,101 @@
+Day 1,Day 2,Day 3,Day 4,Day 5,Day 6,Day 7,Disease
+Satun,Phitsanulok,Loei,Mukdahan,Phetchaburi,Trang,Phitsanulok,0.0
+Chiang Rai,Phetchaburi,Mukdahan,Phitsanulok,Nakhon Si Thammarat,Mukdahan,Mukdahan,0.0
+Pathum Thani,Lopburi,Chiang Rai,Mukdahan,Nakhon Si Thammarat,Chonburi,Buriram,1.0
+Chonburi,Phitsanulok,Nakhon Si Thammarat,Trang,Buriram,Trang,Phitsanulok,0.0
+Mukdahan,Nakhon Si Thammarat,Nakhon Si Thammarat,Trang,Lopburi,Chonburi,Mukdahan,0.0
+Phetchaburi,Phetchaburi,Trang,Buriram,Phitsanulok,Loei,Chonburi,0.0
+Mukdahan,Phitsanulok,Chonburi,Mukdahan,Phetchaburi,Buriram,Loei,0.0
+Phitsanulok,Lopburi,Nakhon Si Thammarat,Pathum Thani,Chiang Rai,Loei,Chiang Rai,1.0
+Mukdahan,Nakhon Si Thammarat,Satun,Trang,Chiang Rai,Phitsanulok,Lopburi,0.0
+Satun,Lopburi,Chiang Rai,Nakhon Si Thammarat,Mukdahan,Mukdahan,Chonburi,0.0
+Buriram,Loei,Trang,Nakhon Si Thammarat,Chonburi,Loei,Pathum Thani,0.0
+Buriram,Pathum Thani,Lopburi,Satun,Satun,Chiang Rai,Buriram,1.0
+Nakhon Si Thammarat,Buriram,Pathum Thani,Trang,Chonburi,Phitsanulok,Nakhon Si Thammarat,1.0
+Pathum Thani,Loei,Pathum Thani,Phitsanulok,Lopburi,Mukdahan,Phetchaburi,1.0
+Satun,Loei,Mukdahan,Chiang Rai,Buriram,Satun,Mukdahan,0.0
+Loei,Phetchaburi,Nakhon Si Thammarat,Phitsanulok,Buriram,Satun,Phetchaburi,0.0
+Pathum Thani,Phitsanulok,Phitsanulok,Buriram,Phetchaburi,Chiang Rai,Phetchaburi,1.0
+Trang,Pathum Thani,Buriram,Loei,Lopburi,Buriram,Mukdahan,1.0
+Nakhon Si Thammarat,Nakhon Si Thammarat,Loei,Phitsanulok,Lopburi,Chonburi,Phetchaburi,0.0
+Trang,Loei,Chiang Rai,Buriram,Lopburi,Chonburi,Buriram,0.0
+Phitsanulok,Trang,Loei,Loei,Chiang Rai,Nakhon Si Thammarat,Chiang Rai,0.0
+Pathum Thani,Loei,Phitsanulok,Lopburi,Phetchaburi,Lopburi,Chonburi,1.0
+Satun,Buriram,Chiang Rai,Chonburi,Buriram,Satun,Buriram,0.0
+Chiang Rai,Pathum Thani,Chonburi,Satun,Satun,Mukdahan,Chiang Rai,1.0
+Loei,Buriram,Lopburi,Satun,Nakhon Si Thammarat,Trang,Buriram,0.0
+Mukdahan,Pathum Thani,Loei,Phetchaburi,Mukdahan,Loei,Satun,1.0
+Lopburi,Chiang Rai,Nakhon Si Thammarat,Nakhon Si Thammarat,Mukdahan,Chonburi,Phitsanulok,0.0
+Phitsanulok,Chonburi,Lopburi,Nakhon Si Thammarat,Loei,Chiang Rai,Pathum Thani,0.0
+Pathum Thani,Buriram,Pathum Thani,Pathum Thani,Buriram,Buriram,Chiang Rai,1.0
+Mukdahan,Pathum Thani,Phitsanulok,Phitsanulok,Phetchaburi,Loei,Lopburi,1.0
+Mukdahan,Mukdahan,Phitsanulok,Loei,Chiang Rai,Lopburi,Mukdahan,0.0
+Lopburi,Trang,Pathum Thani,Buriram,Mukdahan,Pathum Thani,Pathum Thani,1.0
+Chiang Rai,Satun,Buriram,Phetchaburi,Chonburi,Trang,Mukdahan,0.0
+Phitsanulok,Phetchaburi,Loei,Chonburi,Chonburi,Trang,Buriram,0.0
+Lopburi,Chiang Rai,Mukdahan,Satun,Nakhon Si Thammarat,Nakhon Si Thammarat,Pathum Thani,0.0
+Pathum Thani,Trang,Buriram,Chiang Rai,Buriram,Chiang Rai,Loei,1.0
+Nakhon Si Thammarat,Chonburi,Loei,Loei,Loei,Trang,Loei,0.0
+Phitsanulok,Mukdahan,Buriram,Phetchaburi,Nakhon Si Thammarat,Phetchaburi,Phetchaburi,0.0
+Chiang Rai,Lopburi,Trang,Lopburi,Phetchaburi,Mukdahan,Lopburi,0.0
+Buriram,Phetchaburi,Phitsanulok,Lopburi,Satun,Nakhon Si Thammarat,Chiang Rai,0.0
+Phetchaburi,Chiang Rai,Buriram,Phitsanulok,Chonburi,Mukdahan,Loei,0.0
+Mukdahan,Loei,Chonburi,Phetchaburi,Phetchaburi,Mukdahan,Phitsanulok,0.0
+Chiang Rai,Chiang Rai,Pathum Thani,Loei,Lopburi,Nakhon Si Thammarat,Chiang Rai,1.0
+Trang,Mukdahan,Pathum Thani,Pathum Thani,Pathum Thani,Chonburi,Buriram,1.0
+Lopburi,Buriram,Lopburi,Phitsanulok,Chiang Rai,Mukdahan,Nakhon Si Thammarat,0.0
+Phetchaburi,Lopburi,Pathum Thani,Lopburi,Loei,Satun,Chonburi,1.0
+Phetchaburi,Loei,Lopburi,Phetchaburi,Phetchaburi,Phetchaburi,Mukdahan,0.0
+Buriram,Chonburi,Loei,Chonburi,Loei,Chonburi,Satun,0.0
+Nakhon Si Thammarat,Nakhon Si Thammarat,Chiang Rai,Chiang Rai,Trang,Mukdahan,Satun,0.0
+Mukdahan,Mukdahan,Satun,Phetchaburi,Satun,Pathum Thani,Mukdahan,0.0
+Phetchaburi,Satun,Trang,Chonburi,Lopburi,Chiang Rai,Pathum Thani,0.0
+Chiang Rai,Nakhon Si Thammarat,Pathum Thani,Nakhon Si Thammarat,Lopburi,Lopburi,Phetchaburi,1.0
+Chiang Rai,Phitsanulok,Buriram,Buriram,Mukdahan,Mukdahan,Lopburi,0.0
+Nakhon Si Thammarat,Loei,Chiang Rai,Pathum Thani,Loei,Lopburi,Chiang Rai,1.0
+Pathum Thani,Lopburi,Mukdahan,Mukdahan,Buriram,Trang,Pathum Thani,1.0
+Phitsanulok,Trang,Phetchaburi,Buriram,Phetchaburi,Buriram,Trang,0.0
+Lopburi,Chonburi,Lopburi,Phetchaburi,Lopburi,Buriram,Nakhon Si Thammarat,0.0
+Phitsanulok,Phetchaburi,Satun,Lopburi,Loei,Satun,Satun,0.0
+Mukdahan,Nakhon Si Thammarat,Trang,Trang,Phitsanulok,Phetchaburi,Loei,0.0
+Satun,Trang,Chonburi,Buriram,Phetchaburi,Lopburi,Trang,0.0
+Trang,Nakhon Si Thammarat,Phitsanulok,Satun,Chiang Rai,Lopburi,Phitsanulok,0.0
+Lopburi,Trang,Phetchaburi,Satun,Trang,Phitsanulok,Chonburi,0.0
+Chonburi,Pathum Thani,Pathum Thani,Satun,Buriram,Lopburi,Nakhon Si Thammarat,1.0
+Phitsanulok,Lopburi,Loei,Pathum Thani,Mukdahan,Phetchaburi,Nakhon Si Thammarat,1.0
+Phetchaburi,Mukdahan,Satun,Chiang Rai,Loei,Buriram,Loei,0.0
+Satun,Satun,Trang,Nakhon Si Thammarat,Mukdahan,Satun,Satun,0.0
+Nakhon Si Thammarat,Buriram,Chonburi,Pathum Thani,Trang,Trang,Satun,1.0
+Mukdahan,Pathum Thani,Pathum Thani,Loei,Chiang Rai,Chiang Rai,Lopburi,1.0
+Chonburi,Buriram,Lopburi,Trang,Loei,Pathum Thani,Satun,0.0
+Mukdahan,Chonburi,Mukdahan,Trang,Chonburi,Lopburi,Satun,0.0
+Buriram,Mukdahan,Lopburi,Phetchaburi,Phitsanulok,Phetchaburi,Nakhon Si Thammarat,0.0
+Buriram,Chonburi,Phetchaburi,Mukdahan,Mukdahan,Satun,Pathum Thani,0.0
+Mukdahan,Chiang Rai,Loei,Chiang Rai,Loei,Pathum Thani,Trang,0.0
+Nakhon Si Thammarat,Phitsanulok,Satun,Trang,Trang,Nakhon Si Thammarat,Buriram,0.0
+Loei,Chiang Rai,Lopburi,Nakhon Si Thammarat,Buriram,Chiang Rai,Satun,0.0
+Phitsanulok,Chonburi,Pathum Thani,Trang,Buriram,Chiang Rai,Loei,1.0
+Trang,Loei,Pathum Thani,Buriram,Trang,Phetchaburi,Phetchaburi,1.0
+Nakhon Si Thammarat,Buriram,Chonburi,Chiang Rai,Satun,Chiang Rai,Phetchaburi,0.0
+Loei,Phitsanulok,Chiang Rai,Buriram,Buriram,Phetchaburi,Satun,0.0
+Chonburi,Trang,Buriram,Pathum Thani,Chonburi,Phitsanulok,Trang,1.0
+Lopburi,Pathum Thani,Loei,Trang,Trang,Phetchaburi,Phitsanulok,1.0
+Loei,Chiang Rai,Buriram,Phetchaburi,Loei,Pathum Thani,Pathum Thani,0.0
+Phitsanulok,Loei,Trang,Loei,Chiang Rai,Lopburi,Trang,0.0
+Chonburi,Chonburi,Trang,Mukdahan,Nakhon Si Thammarat,Mukdahan,Mukdahan,0.0
+Mukdahan,Chiang Rai,Trang,Buriram,Mukdahan,Phitsanulok,Nakhon Si Thammarat,0.0
+Pathum Thani,Chiang Rai,Phitsanulok,Loei,Phetchaburi,Satun,Nakhon Si Thammarat,1.0
+Satun,Buriram,Trang,Mukdahan,Loei,Pathum Thani,Pathum Thani,0.0
+Buriram,Phitsanulok,Nakhon Si Thammarat,Nakhon Si Thammarat,Trang,Pathum Thani,Phetchaburi,0.0
+Lopburi,Satun,Phetchaburi,Mukdahan,Nakhon Si Thammarat,Nakhon Si Thammarat,Satun,0.0
+Lopburi,Lopburi,Buriram,Phetchaburi,Mukdahan,Loei,Buriram,0.0
+Nakhon Si Thammarat,Nakhon Si Thammarat,Lopburi,Buriram,Chiang Rai,Nakhon Si Thammarat,Chonburi,0.0
+Satun,Chonburi,Pathum Thani,Mukdahan,Phetchaburi,Phitsanulok,Buriram,1.0
+Phetchaburi,Mukdahan,Trang,Nakhon Si Thammarat,Chiang Rai,Loei,Satun,0.0
+Phitsanulok,Trang,Chiang Rai,Phitsanulok,Trang,Loei,Lopburi,0.0
+Phitsanulok,Chonburi,Chiang Rai,Phitsanulok,Chonburi,Mukdahan,Satun,0.0
+Nakhon Si Thammarat,Buriram,Satun,Trang,Pathum Thani,Chonburi,Trang,0.0
+Lopburi,Phetchaburi,Mukdahan,Chiang Rai,Phitsanulok,Trang,Chonburi,0.0
+Mukdahan,Lopburi,Nakhon Si Thammarat,Chiang Rai,Nakhon Si Thammarat,Chiang Rai,Phitsanulok,0.0
+Phetchaburi,Loei,Lopburi,Buriram,Phitsanulok,Phitsanulok,Pathum Thani,0.0
+Phetchaburi,Pathum Thani,Phitsanulok,Mukdahan,Buriram,Chonburi,Chiang Rai,1.0
