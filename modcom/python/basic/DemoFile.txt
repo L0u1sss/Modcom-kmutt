@@ -1,0 +1,3 @@
+Hello, this is the Basic Python Programming program.
+In this program, you will learn about all the required basics for data management.
+Therefore, GOOD LUCK and have fun.
